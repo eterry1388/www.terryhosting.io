@@ -1,13 +1,41 @@
 ## Sign Up
 
-<form action="your-server-side-code" method="POST">
+### Basic Hosting
+
+<form action="/thank-you" method="GET">
   <script
-    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-    data-key="pk_test_PGZ9OSy2A62fhjELMDNCt2Do"
-    data-amount="999"
+    src="https://checkout.stripe.com/checkout.js"
+    class="stripe-button"
+    data-key="pk_live_RTKbKO1Wp18PFx55tg29bqNO"
+    data-amount="0"
     data-name="Terry Hosting"
-    data-description="Example charge"
-    data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
-    data-locale="auto">
+    data-description="Basic Hosting"
+    data-image="/assets/images/logo.png"
+    data-locale="auto"
+    data-label="Purchase"
+    data-allow-remember-me="false"
+    data-zip-code="true"
+    data-billing-address="true"
+    data-panel-label="Pay $10/month">
+  </script>
+</form>
+
+### Enterprise Hosting
+
+<form action="/thank-you" method="GET">
+  <script
+    src="https://checkout.stripe.com/checkout.js"
+    class="stripe-button"
+    data-key="pk_live_RTKbKO1Wp18PFx55tg29bqNO"
+    data-amount="0"
+    data-name="Terry Hosting"
+    data-description="Enterprise Hosting"
+    data-image="/assets/images/logo.png"
+    data-locale="auto"
+    data-label="Purchase"
+    data-allow-remember-me="false"
+    data-zip-code="true"
+    data-billing-address="true"
+    data-panel-label="Pay $30/month">
   </script>
 </form>
