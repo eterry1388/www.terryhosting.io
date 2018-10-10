@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+aside a.button {
+  background: transparent url(../images/button.png) 0 0 no-repeat;
+}

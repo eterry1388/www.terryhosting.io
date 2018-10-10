@@ -1,38 +1,41 @@
 <img src="assets/images/logo.png" width="230">
 
-[Let's Get Started!](https://www.terryhosting.io/sign-up)
+We're here to help your website blast off! Through creative ideas, innovation & technology.
 
-### Responsive Design
+[Let's Get Started!](https://www.terryhosting.io/sign-up)
+<a href="https://www.terryhosting.io/sign-up" class="button">Let's Get Started!</a>
+
+## Responsive Design
 
 <img src="assets/images/devices.png" width="135">
 
 If you choose us to design your website, it will look good on all devices ranging from the desktop to mobile devices.
 
-### Simple Pricing
+## Simple Pricing
 
 <img src="assets/images/cart.png" width="135">
 
 We believe in simple, transparent pricing.  One-time charge for website design and creation.  Monthly plan for hosting.
 
-### Reliable Servers
+## Reliable Servers
 
 <img src="assets/images/network.png" width="135">
 
 We provides a 99.99% Uptime SLA for hosting your website on our servers.  If our servers goes down, we’ll provide partial refunds.
 
-### Fast
+## Fast
 
 <img src="assets/images/chart.png" width="135">
 
 Your website will run on a proven hosting platform that will give your visitors the speed they need to quickly access your site.
 
-### Completely Secure
+## Completely Secure
 
 <img src="assets/images/castle.png" width="135">
 
 Your website can be protected by the latest encryption technologies.  Your visitors will see a lock icon near the web browser URL bar indicating that it is protected by HTTPS secure traffic.
 
-### Easy to Manage
+## Easy to Manage
 
 <img src="assets/images/interface.png" width="135">
 
