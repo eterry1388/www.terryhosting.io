@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Terry Hosting
 
-You can use the [editor on GitHub](https://github.com/eterry1388/www.terryhosting.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We're here to help your website blast off!  Through creative ideas, innovation & technology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Let's Get Started!](https://www.terryhosting.io/sign-up)
 
-### Markdown
+### Responsive Design
+If you choose us to design your website, it will look good on all devices ranging from the desktop to mobile devices.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Simple Pricing
+We believe in simple, transparent pricing.  One-time charge for website design and creation.  Monthly plan for hosting.
 
-```markdown
-Syntax highlighted code block
+### Reliable Servers
+We provides a 99.99% Uptime SLA for hosting your website on our servers.  If our servers goes down, we’ll provide partial refunds.
 
-# Header 1
-## Header 2
-### Header 3
+### Fast
+Your website will run on a proven hosting platform that will give your visitors the speed they need to quickly access your site.
 
-- Bulleted
-- List
+### Completely Secure
+Your website can be protected by the latest encryption technologies.  Your visitors will see a lock icon near the web browser URL bar indicating that it is protected by HTTPS secure traffic.
 
-1. Numbered
-2. List
+### Easy to Manage
+We can design your website with a content management system where you can modify your site and add content as often as you’d like.
 
-**Bold** and _Italic_ and `Code` text
+[See Pricing](https://www.terryhosting.io/sign-up)
 
-[Link](url) and ![Image](src)
-```
+## Our Proven Process Produces Results
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 1. MEETING
+First, we find a time to meet up and talk.  This can be done in person, over the phone, or even video chat.
 
-### Jekyll Themes
+### 2. PLANNING
+Next, we’ll talk about what you want. Already have a site you are just trying to host? No problem. Have an idea and want one designed and built? We can do that!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eterry1388/www.terryhosting.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 3. EXECUTE
+Now we go to work. You can be involved as much or as little as you’d like. In no time your site will be up and running.
 
-### Support or Contact
+### 4. TESTING
+Nothing gets published without thorough testing on our side. You will have an opportunity to test it out as well and make sure it is just how you wanted it.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 5. DELIVERY
+Your website is now live! Go and show it off!
