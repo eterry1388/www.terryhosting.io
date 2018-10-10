@@ -1,9 +1,4 @@
-<img src="assets/images/logo.png" width="230">
-
-We're here to help your website blast off! Through creative ideas, innovation & technology.
-
-[Let's Get Started!](https://www.terryhosting.io/sign-up)
-<a href="https://www.terryhosting.io/sign-up" class="button">Let's Get Started!</a>
+<aside><a href="https://www.terryhosting.io/sign-up" class="button">Sign Up</a></aside>
 
 ## Responsive Design
 
