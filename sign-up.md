@@ -14,8 +14,6 @@ Enter in your payment information in order to be added as a Terry Hosting custom
     data-locale="auto"
     data-label="Payment Information"
     data-allow-remember-me="false"
-    data-zip-code="true"
-    data-billing-address="true"
-    data-panel-label="Submit">
+    data-billing-address="true">
   </script>
 </form>

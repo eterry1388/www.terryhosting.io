@@ -6,5 +6,9 @@ Thank you <span class="name"></span>for signing up!
   var email = getParameterByName('stripeEmail');
   var name = getParameterByName('stripeBillingName');
   var element = document.getElementsByClassName('name')[0];
-  element.innerHTML = name + ' (' + email + ') '
+  if (email !== null && name != null) {
+    element.innerHTML = name + ' (' + email + ') '
+  }
 </script>
+
+<aside><a href="/" class="button">Home</a></aside>
